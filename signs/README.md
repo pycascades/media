@@ -18,7 +18,7 @@ $ docker run --rm -v $(pwd):/work -u $(id -u):$(id -g) sign_renderer
 To render just one sign, pass its name as an arg. You can pass the relative path or just the filename:
 
 ```shell
-$ docker build -t sign_renderer docker/  # note, you only need to build once
+$ docker build -t sign_renderer --build-arg uid=$(id -u) --build-arg gid=$(id -g) docker/  # note, you only need to build once
 $ docker run --rm -v $(pwd):/work -u $(id -u):$(id -g) sign_renderer 2023-backdrop-square.svg
 ```
 
