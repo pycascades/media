@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="90in"
-   height="90in"
-   viewBox="0 0 2286 2286"
+   width="84in"
+   height="84in"
+   viewBox="0 0 2133.6 2133.6"
    version="1.1"
    id="svg6205"
    xml:space="preserve"
@@ -26,12 +26,12 @@
      inkscape:document-units="in"
      showgrid="false"
      inkscape:zoom="0.042025386"
-     inkscape:cx="-142.77085"
-     inkscape:cy="2236.7433"
-     inkscape:window-width="2304"
-     inkscape:window-height="1190"
-     inkscape:window-x="-11"
-     inkscape:window-y="-11"
+     inkscape:cx="-2914.9048"
+     inkscape:cy="2272.436"
+     inkscape:window-width="1920"
+     inkscape:window-height="992"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg6205" /><defs
      id="defs6202"><linearGradient
@@ -41,7 +41,7 @@
          id="stop10879" /></linearGradient><color-profile
        name="Agfa-:-Swop-Standard"
        xlink:href="file:///WINDOWS/system32/spool/drivers/color/RSWOP.icm"
-       id="color-profile2391" /><filter
+       id="color-profile599" /><filter
        style="color-interpolation-filters:sRGB"
        id="filter3530"
        x="0"
@@ -116,7 +116,7 @@
          id="feColorMatrix3542-8"
          values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 -0.21 -0.72 -0.07 2 0 "
          result="color2" /></filter><filter
-       style="color-interpolation-filters:sRGB;"
+       style="color-interpolation-filters:sRGB"
        id="filter15063"
        x="0"
        y="0"
@@ -143,7 +143,7 @@
          result="color2"
          id="feColorMatrix15061-3" /></filter><style
        id="style23599">.a39cd96f-fcc4-44e2-b5da-a489e0ad244f{fill:#623c96;}</style><filter
-       style="color-interpolation-filters:sRGB;"
+       style="color-interpolation-filters:sRGB"
        id="filter23661"
        x="0"
        y="0"
@@ -205,7 +205,10 @@
          result="qminpc"
          in="qminp"
          in2="qminp"
-         id="feComposite23655" /><feBlend
+         id="feComposite23655"
+         k1="0"
+         k2="0"
+         k4="0" /><feBlend
          result="result2"
          in2="SourceGraphic"
          mode="screen"
